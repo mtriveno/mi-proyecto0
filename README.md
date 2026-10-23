@@ -1,2 +1,2 @@
 # mi-proyecto0
-Primer proyecto sola
+Primer proyecto sola de prueba
